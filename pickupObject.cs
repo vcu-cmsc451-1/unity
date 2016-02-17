@@ -10,15 +10,15 @@ public class pickupObject : MonoBehaviour {
     bool carryingObject;
     public float distance;
     public float smooth;
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         theHaptic = GameObject.Find("Falcon");
         sphereScript = theHaptic.GetComponent<SphereManipulator>();
     }
-	
-	// Update is called once per frame
-	void Update () {
-	    if(carryingObject)
+
+    // Update is called once per frame
+    void Update () {
+        if(carryingObject)
         {
             carry(carriedObject);
             checkDrop();
@@ -27,7 +27,7 @@ public class pickupObject : MonoBehaviour {
         {
             pickup();
         }
-	}
+    }
 
     void carry(GameObject o)
     {
@@ -73,7 +73,7 @@ public class pickupObject : MonoBehaviour {
         rd.isKinematic = false;
         carryingObject = false;
         carriedObject = null;
-        
+
     }
 
 }
