@@ -210,6 +210,7 @@ public class FalconUnityCall {
 	
 	// apply a static force to the haptic tip every tick
     public static void setForceField(int falcon_num, Vector3 force) {
+        
         string returnval = "SETFORCEFIELD\n";
 
         returnval += falcon_num + "\n";
@@ -220,8 +221,8 @@ public class FalconUnityCall {
                 returnval += "\t";
         }
         returnval += "\n";
-
-		packetQueue.Enqueue(returnval);
+        
+        packetQueue.Enqueue(returnval);
 		queueEvent.Set();
 	}
 	

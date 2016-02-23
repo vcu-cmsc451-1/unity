@@ -66,8 +66,10 @@ public class pickupObject : MonoBehaviour {
             if(Physics.Raycast(theCursor.transform.position, theCursor.transform.forward, out hit, rayLength))//if(Physics.Raycast(ray, out hit))
             {
                 pickupAble p = hit.collider.GetComponent<pickupAble>();
+//                FalconUnity.setForceField(0, new Vector3(0, 0, -5));
                 if(p != null)
                 {
+                    FalconUnity.setForceField(0, new Vector3(0, 5, 0));
                     Rigidbody rd = p.GetComponent<Rigidbody>();
                     rd.isKinematic = true;
                     carryingObject = true;
@@ -92,6 +94,7 @@ public class pickupObject : MonoBehaviour {
         rd.isKinematic = false;
         carryingObject = false;
         carriedObject = null;
+        FalconUnity.setForceField(0, new Vector3(0, 0, 0));
 
     }
 
