@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 399b702c0f881884b992532301211b22
+timeCreated: 1457892583
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bed_pillow
+    100004: Box36
+    100006: Box37
+    100008: Box38
+    100010: Box39
+    100012: Box40
+    100014: Box41
+    100016: ChamferBox
+    100018: ChamferCy1
+    100020: ChamferCy2
+    100022: ChamferCy3
+    100024: ChamferCyl
+    100026: Cover
+    100028: Cylinder02
+    100030: Matras
+    100032: Maxi_I
+    100034: Pillow_1
+    100036: Pillow_2
+    400000: //RootNode
+    400002: bed_pillow
+    400004: Box36
+    400006: Box37
+    400008: Box38
+    400010: Box39
+    400012: Box40
+    400014: Box41
+    400016: ChamferBox
+    400018: ChamferCy1
+    400020: ChamferCy2
+    400022: ChamferCy3
+    400024: ChamferCyl
+    400026: Cover
+    400028: Cylinder02
+    400030: Matras
+    400032: Maxi_I
+    400034: Pillow_1
+    400036: Pillow_2
+    2300000: bed_pillow
+    2300002: Box36
+    2300004: Box37
+    2300006: Box38
+    2300008: Box39
+    2300010: Box40
+    2300012: Box41
+    2300014: ChamferBox
+    2300016: ChamferCy1
+    2300018: ChamferCy2
+    2300020: ChamferCy3
+    2300022: ChamferCyl
+    2300024: Cover
+    2300026: Cylinder02
+    2300028: Matras
+    2300030: Maxi_I
+    2300032: Pillow_1
+    2300034: Pillow_2
+    3300000: bed_pillow
+    3300002: Box36
+    3300004: Box37
+    3300006: Box38
+    3300008: Box39
+    3300010: Box40
+    3300012: Box41
+    3300014: ChamferBox
+    3300016: ChamferCy1
+    3300018: ChamferCy2
+    3300020: ChamferCy3
+    3300022: ChamferCyl
+    3300024: Cover
+    3300026: Cylinder02
+    3300028: Matras
+    3300030: Maxi_I
+    3300032: Pillow_1
+    3300034: Pillow_2
+    4300000: Cylinder02
+    4300002: bed_pillow
+    4300004: Pillow_1
+    4300006: ChamferBox
+    4300008: ChamferCyl
+    4300010: Pillow_2
+    4300012: ChamferCy1
+    4300014: Box38
+    4300016: Box37
+    4300018: Box36
+    4300020: ChamferCy2
+    4300022: Box39
+    4300024: Box40
+    4300026: Box41
+    4300028: Maxi_I
+    4300030: ChamferCy3
+    4300032: Cover
+    4300034: Matras
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: fe3f2ffa9fbe400449c7c13d00594e73
+timeCreated: 1457888845
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 15 Nabok10
+    100002: 15 Nabok11
+    100004: 15 Nabok12
+    100006: 15 Naboko0
+    100008: 15 Naboko1
+    100010: 15 Naboko2
+    100012: 15 Naboko3
+    100014: 15 Naboko4
+    100016: 15 Naboko5
+    100018: 15 Naboko6
+    100020: 15 Naboko7
+    100022: 15 Naboko8
+    100024: 15 Naboko9
+    100026: 15 Nabokov
+    100028: //RootNode
+    400000: 15 Nabok10
+    400002: 15 Nabok11
+    400004: 15 Nabok12
+    400006: 15 Naboko0
+    400008: 15 Naboko1
+    400010: 15 Naboko2
+    400012: 15 Naboko3
+    400014: 15 Naboko4
+    400016: 15 Naboko5
+    400018: 15 Naboko6
+    400020: 15 Naboko7
+    400022: 15 Naboko8
+    400024: 15 Naboko9
+    400026: 15 Nabokov
+    400028: //RootNode
+    2300000: 15 Nabok10
+    2300002: 15 Nabok11
+    2300004: 15 Nabok12
+    2300006: 15 Naboko0
+    2300008: 15 Naboko1
+    2300010: 15 Naboko2
+    2300012: 15 Naboko3
+    2300014: 15 Naboko4
+    2300016: 15 Naboko5
+    2300018: 15 Naboko6
+    2300020: 15 Naboko7
+    2300022: 15 Naboko8
+    2300024: 15 Naboko9
+    2300026: 15 Nabokov
+    3300000: 15 Nabok10
+    3300002: 15 Nabok11
+    3300004: 15 Nabok12
+    3300006: 15 Naboko0
+    3300008: 15 Naboko1
+    3300010: 15 Naboko2
+    3300012: 15 Naboko3
+    3300014: 15 Naboko4
+    3300016: 15 Naboko5
+    3300018: 15 Naboko6
+    3300020: 15 Naboko7
+    3300022: 15 Naboko8
+    3300024: 15 Naboko9
+    3300026: 15 Nabokov
+    4300000: 15 Nabokov
+    4300002: 15 Naboko0
+    4300004: 15 Naboko1
+    4300006: 15 Naboko2
+    4300008: 15 Naboko3
+    4300010: 15 Naboko4
+    4300012: 15 Naboko5
+    4300014: 15 Naboko6
+    4300016: 15 Naboko7
+    4300018: 15 Naboko8
+    4300020: 15 Naboko9
+    4300022: 15 Nabok10
+    4300024: 15 Nabok11
+    4300026: 15 Nabok12
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

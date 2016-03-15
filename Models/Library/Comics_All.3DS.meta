@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: fcd2f0413d4ef5042bbd91f1b13f5916
+timeCreated: 1457847091
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 21 Comi100
+    100002: 21 Comi101
+    100004: 21 Comic 0
+    100006: 21 Comic 1
+    100008: 21 Comic 2
+    100010: 21 Comic 3
+    100012: 21 Comic 4
+    100014: 21 Comic 5
+    100016: 21 Comic 6
+    100018: 21 Comic 7
+    100020: 21 Comic 8
+    100022: 21 Comic 9
+    100024: 21 Comic b
+    100026: 21 Comic10
+    100028: 21 Comic11
+    100030: 21 Comic12
+    100032: 21 Comic13
+    100034: 21 Comic14
+    100036: 21 Comic15
+    100038: 21 Comic16
+    100040: 21 Comic17
+    100042: 21 Comic18
+    100044: 21 Comic19
+    100046: 21 Comic20
+    100048: 21 Comic21
+    100050: 21 Comic22
+    100052: 21 Comic23
+    100054: 21 Comic24
+    100056: 21 Comic25
+    100058: 21 Comic26
+    100060: 21 Comic27
+    100062: 21 Comic28
+    100064: 21 Comic29
+    100066: 21 Comic30
+    100068: 21 Comic31
+    100070: 21 Comic32
+    100072: 21 Comic33
+    100074: 21 Comic34
+    100076: 21 Comic35
+    100078: 21 Comic36
+    100080: 21 Comic37
+    100082: 21 Comic38
+    100084: 21 Comic39
+    100086: 21 Comic40
+    100088: 21 Comic41
+    100090: 21 Comic42
+    100092: 21 Comic43
+    100094: 21 Comic44
+    100096: 21 Comic45
+    100098: 21 Comic46
+    100100: 21 Comic47
+    100102: 21 Comic48
+    100104: 21 Comic49
+    100106: 21 Comic50
+    100108: 21 Comic51
+    100110: 21 Comic52
+    100112: 21 Comic53
+    100114: 21 Comic54
+    100116: 21 Comic55
+    100118: 21 Comic56
+    100120: 21 Comic57
+    100122: 21 Comic58
+    100124: 21 Comic59
+    100126: 21 Comic60
+    100128: 21 Comic61
+    100130: 21 Comic62
+    100132: 21 Comic63
+    100134: 21 Comic64
+    100136: 21 Comic65
+    100138: 21 Comic66
+    100140: 21 Comic67
+    100142: 21 Comic68
+    100144: 21 Comic69
+    100146: 21 Comic70
+    100148: 21 Comic71
+    100150: 21 Comic72
+    100152: 21 Comic73
+    100154: 21 Comic74
+    100156: 21 Comic75
+    100158: 21 Comic76
+    100160: 21 Comic77
+    100162: 21 Comic78
+    100164: 21 Comic79
+    100166: 21 Comic80
+    100168: 21 Comic81
+    100170: 21 Comic82
+    100172: 21 Comic83
+    100174: 21 Comic84
+    100176: 21 Comic85
+    100178: 21 Comic86
+    100180: 21 Comic87
+    100182: 21 Comic88
+    100184: 21 Comic89
+    100186: 21 Comic90
+    100188: 21 Comic91
+    100190: 21 Comic92
+    100192: 21 Comic93
+    100194: 21 Comic94
+    100196: 21 Comic95
+    100198: 21 Comic96
+    100200: 21 Comic97
+    100202: 21 Comic98
+    100204: 21 Comic99
+    100206: //RootNode
+    400000: 21 Comi100
+    400002: 21 Comi101
+    400004: 21 Comic 0
+    400006: 21 Comic 1
+    400008: 21 Comic 2
+    400010: 21 Comic 3
+    400012: 21 Comic 4
+    400014: 21 Comic 5
+    400016: 21 Comic 6
+    400018: 21 Comic 7
+    400020: 21 Comic 8
+    400022: 21 Comic 9
+    400024: 21 Comic b
+    400026: 21 Comic10
+    400028: 21 Comic11
+    400030: 21 Comic12
+    400032: 21 Comic13
+    400034: 21 Comic14
+    400036: 21 Comic15
+    400038: 21 Comic16
+    400040: 21 Comic17
+    400042: 21 Comic18
+    400044: 21 Comic19
+    400046: 21 Comic20
+    400048: 21 Comic21
+    400050: 21 Comic22
+    400052: 21 Comic23
+    400054: 21 Comic24
+    400056: 21 Comic25
+    400058: 21 Comic26
+    400060: 21 Comic27
+    400062: 21 Comic28
+    400064: 21 Comic29
+    400066: 21 Comic30
+    400068: 21 Comic31
+    400070: 21 Comic32
+    400072: 21 Comic33
+    400074: 21 Comic34
+    400076: 21 Comic35
+    400078: 21 Comic36
+    400080: 21 Comic37
+    400082: 21 Comic38
+    400084: 21 Comic39
+    400086: 21 Comic40
+    400088: 21 Comic41
+    400090: 21 Comic42
+    400092: 21 Comic43
+    400094: 21 Comic44
+    400096: 21 Comic45
+    400098: 21 Comic46
+    400100: 21 Comic47
+    400102: 21 Comic48
+    400104: 21 Comic49
+    400106: 21 Comic50
+    400108: 21 Comic51
+    400110: 21 Comic52
+    400112: 21 Comic53
+    400114: 21 Comic54
+    400116: 21 Comic55
+    400118: 21 Comic56
+    400120: 21 Comic57
+    400122: 21 Comic58
+    400124: 21 Comic59
+    400126: 21 Comic60
+    400128: 21 Comic61
+    400130: 21 Comic62
+    400132: 21 Comic63
+    400134: 21 Comic64
+    400136: 21 Comic65
+    400138: 21 Comic66
+    400140: 21 Comic67
+    400142: 21 Comic68
+    400144: 21 Comic69
+    400146: 21 Comic70
+    400148: 21 Comic71
+    400150: 21 Comic72
+    400152: 21 Comic73
+    400154: 21 Comic74
+    400156: 21 Comic75
+    400158: 21 Comic76
+    400160: 21 Comic77
+    400162: 21 Comic78
+    400164: 21 Comic79
+    400166: 21 Comic80
+    400168: 21 Comic81
+    400170: 21 Comic82
+    400172: 21 Comic83
+    400174: 21 Comic84
+    400176: 21 Comic85
+    400178: 21 Comic86
+    400180: 21 Comic87
+    400182: 21 Comic88
+    400184: 21 Comic89
+    400186: 21 Comic90
+    400188: 21 Comic91
+    400190: 21 Comic92
+    400192: 21 Comic93
+    400194: 21 Comic94
+    400196: 21 Comic95
+    400198: 21 Comic96
+    400200: 21 Comic97
+    400202: 21 Comic98
+    400204: 21 Comic99
+    400206: //RootNode
+    2300000: 21 Comi100
+    2300002: 21 Comi101
+    2300004: 21 Comic 0
+    2300006: 21 Comic 1
+    2300008: 21 Comic 2
+    2300010: 21 Comic 3
+    2300012: 21 Comic 4
+    2300014: 21 Comic 5
+    2300016: 21 Comic 6
+    2300018: 21 Comic 7
+    2300020: 21 Comic 8
+    2300022: 21 Comic 9
+    2300024: 21 Comic10
+    2300026: 21 Comic11
+    2300028: 21 Comic12
+    2300030: 21 Comic13
+    2300032: 21 Comic14
+    2300034: 21 Comic15
+    2300036: 21 Comic16
+    2300038: 21 Comic17
+    2300040: 21 Comic18
+    2300042: 21 Comic19
+    2300044: 21 Comic20
+    2300046: 21 Comic21
+    2300048: 21 Comic22
+    2300050: 21 Comic23
+    2300052: 21 Comic24
+    2300054: 21 Comic25
+    2300056: 21 Comic26
+    2300058: 21 Comic27
+    2300060: 21 Comic28
+    2300062: 21 Comic29
+    2300064: 21 Comic30
+    2300066: 21 Comic31
+    2300068: 21 Comic32
+    2300070: 21 Comic33
+    2300072: 21 Comic34
+    2300074: 21 Comic35
+    2300076: 21 Comic36
+    2300078: 21 Comic37
+    2300080: 21 Comic38
+    2300082: 21 Comic39
+    2300084: 21 Comic40
+    2300086: 21 Comic41
+    2300088: 21 Comic42
+    2300090: 21 Comic43
+    2300092: 21 Comic44
+    2300094: 21 Comic45
+    2300096: 21 Comic46
+    2300098: 21 Comic47
+    2300100: 21 Comic48
+    2300102: 21 Comic49
+    2300104: 21 Comic51
+    2300106: 21 Comic52
+    2300108: 21 Comic53
+    2300110: 21 Comic54
+    2300112: 21 Comic55
+    2300114: 21 Comic56
+    2300116: 21 Comic57
+    2300118: 21 Comic58
+    2300120: 21 Comic59
+    2300122: 21 Comic60
+    2300124: 21 Comic61
+    2300126: 21 Comic62
+    2300128: 21 Comic63
+    2300130: 21 Comic64
+    2300132: 21 Comic65
+    2300134: 21 Comic66
+    2300136: 21 Comic67
+    2300138: 21 Comic68
+    2300140: 21 Comic69
+    2300142: 21 Comic70
+    2300144: 21 Comic71
+    2300146: 21 Comic72
+    2300148: 21 Comic73
+    2300150: 21 Comic74
+    2300152: 21 Comic75
+    2300154: 21 Comic76
+    2300156: 21 Comic77
+    2300158: 21 Comic78
+    2300160: 21 Comic79
+    2300162: 21 Comic80
+    2300164: 21 Comic81
+    2300166: 21 Comic82
+    2300168: 21 Comic83
+    2300170: 21 Comic84
+    2300172: 21 Comic85
+    2300174: 21 Comic86
+    2300176: 21 Comic87
+    2300178: 21 Comic88
+    2300180: 21 Comic89
+    2300182: 21 Comic90
+    2300184: 21 Comic91
+    2300186: 21 Comic92
+    2300188: 21 Comic93
+    2300190: 21 Comic94
+    2300192: 21 Comic95
+    2300194: 21 Comic96
+    2300196: 21 Comic97
+    2300198: 21 Comic98
+    2300200: 21 Comic99
+    3300000: 21 Comi100
+    3300002: 21 Comi101
+    3300004: 21 Comic 0
+    3300006: 21 Comic 1
+    3300008: 21 Comic 2
+    3300010: 21 Comic 3
+    3300012: 21 Comic 4
+    3300014: 21 Comic 5
+    3300016: 21 Comic 6
+    3300018: 21 Comic 7
+    3300020: 21 Comic 8
+    3300022: 21 Comic 9
+    3300024: 21 Comic10
+    3300026: 21 Comic11
+    3300028: 21 Comic12
+    3300030: 21 Comic13
+    3300032: 21 Comic14
+    3300034: 21 Comic15
+    3300036: 21 Comic16
+    3300038: 21 Comic17
+    3300040: 21 Comic18
+    3300042: 21 Comic19
+    3300044: 21 Comic20
+    3300046: 21 Comic21
+    3300048: 21 Comic22
+    3300050: 21 Comic23
+    3300052: 21 Comic24
+    3300054: 21 Comic25
+    3300056: 21 Comic26
+    3300058: 21 Comic27
+    3300060: 21 Comic28
+    3300062: 21 Comic29
+    3300064: 21 Comic30
+    3300066: 21 Comic31
+    3300068: 21 Comic32
+    3300070: 21 Comic33
+    3300072: 21 Comic34
+    3300074: 21 Comic35
+    3300076: 21 Comic36
+    3300078: 21 Comic37
+    3300080: 21 Comic38
+    3300082: 21 Comic39
+    3300084: 21 Comic40
+    3300086: 21 Comic41
+    3300088: 21 Comic42
+    3300090: 21 Comic43
+    3300092: 21 Comic44
+    3300094: 21 Comic45
+    3300096: 21 Comic46
+    3300098: 21 Comic47
+    3300100: 21 Comic48
+    3300102: 21 Comic49
+    3300104: 21 Comic51
+    3300106: 21 Comic52
+    3300108: 21 Comic53
+    3300110: 21 Comic54
+    3300112: 21 Comic55
+    3300114: 21 Comic56
+    3300116: 21 Comic57
+    3300118: 21 Comic58
+    3300120: 21 Comic59
+    3300122: 21 Comic60
+    3300124: 21 Comic61
+    3300126: 21 Comic62
+    3300128: 21 Comic63
+    3300130: 21 Comic64
+    3300132: 21 Comic65
+    3300134: 21 Comic66
+    3300136: 21 Comic67
+    3300138: 21 Comic68
+    3300140: 21 Comic69
+    3300142: 21 Comic70
+    3300144: 21 Comic71
+    3300146: 21 Comic72
+    3300148: 21 Comic73
+    3300150: 21 Comic74
+    3300152: 21 Comic75
+    3300154: 21 Comic76
+    3300156: 21 Comic77
+    3300158: 21 Comic78
+    3300160: 21 Comic79
+    3300162: 21 Comic80
+    3300164: 21 Comic81
+    3300166: 21 Comic82
+    3300168: 21 Comic83
+    3300170: 21 Comic84
+    3300172: 21 Comic85
+    3300174: 21 Comic86
+    3300176: 21 Comic87
+    3300178: 21 Comic88
+    3300180: 21 Comic89
+    3300182: 21 Comic90
+    3300184: 21 Comic91
+    3300186: 21 Comic92
+    3300188: 21 Comic93
+    3300190: 21 Comic94
+    3300192: 21 Comic95
+    3300194: 21 Comic96
+    3300196: 21 Comic97
+    3300198: 21 Comic98
+    3300200: 21 Comic99
+    4300000: 21 Comic 0
+    4300002: 21 Comic 1
+    4300004: 21 Comic 2
+    4300006: 21 Comic 3
+    4300008: 21 Comic 4
+    4300010: 21 Comic 5
+    4300012: 21 Comic 6
+    4300014: 21 Comic 7
+    4300016: 21 Comic 8
+    4300018: 21 Comic 9
+    4300020: 21 Comic10
+    4300022: 21 Comic11
+    4300024: 21 Comic12
+    4300026: 21 Comic13
+    4300028: 21 Comic14
+    4300030: 21 Comic15
+    4300032: 21 Comic16
+    4300034: 21 Comic17
+    4300036: 21 Comic18
+    4300038: 21 Comic19
+    4300040: 21 Comic20
+    4300042: 21 Comic21
+    4300044: 21 Comic22
+    4300046: 21 Comic23
+    4300048: 21 Comic24
+    4300050: 21 Comic25
+    4300052: 21 Comic26
+    4300054: 21 Comic27
+    4300056: 21 Comic28
+    4300058: 21 Comic29
+    4300060: 21 Comic30
+    4300062: 21 Comic31
+    4300064: 21 Comic32
+    4300066: 21 Comic33
+    4300068: 21 Comic34
+    4300070: 21 Comic35
+    4300072: 21 Comic36
+    4300074: 21 Comic37
+    4300076: 21 Comic38
+    4300078: 21 Comic39
+    4300080: 21 Comic40
+    4300082: 21 Comic41
+    4300084: 21 Comic42
+    4300086: 21 Comic43
+    4300088: 21 Comic44
+    4300090: 21 Comic45
+    4300092: 21 Comic46
+    4300094: 21 Comic47
+    4300096: 21 Comic48
+    4300098: 21 Comic49
+    4300100: 21 Comic51
+    4300102: 21 Comic52
+    4300104: 21 Comic53
+    4300106: 21 Comic54
+    4300108: 21 Comic55
+    4300110: 21 Comic56
+    4300112: 21 Comic57
+    4300114: 21 Comic58
+    4300116: 21 Comic59
+    4300118: 21 Comic60
+    4300120: 21 Comic61
+    4300122: 21 Comic62
+    4300124: 21 Comic63
+    4300126: 21 Comic64
+    4300128: 21 Comic65
+    4300130: 21 Comic66
+    4300132: 21 Comic67
+    4300134: 21 Comic68
+    4300136: 21 Comic69
+    4300138: 21 Comic70
+    4300140: 21 Comic71
+    4300142: 21 Comic72
+    4300144: 21 Comic73
+    4300146: 21 Comic74
+    4300148: 21 Comic75
+    4300150: 21 Comic76
+    4300152: 21 Comic77
+    4300154: 21 Comic78
+    4300156: 21 Comic79
+    4300158: 21 Comic80
+    4300160: 21 Comic81
+    4300162: 21 Comic82
+    4300164: 21 Comic83
+    4300166: 21 Comic84
+    4300168: 21 Comic85
+    4300170: 21 Comic86
+    4300172: 21 Comic87
+    4300174: 21 Comic88
+    4300176: 21 Comic89
+    4300178: 21 Comic90
+    4300180: 21 Comic91
+    4300182: 21 Comic92
+    4300184: 21 Comic93
+    4300186: 21 Comic94
+    4300188: 21 Comic95
+    4300190: 21 Comic96
+    4300192: 21 Comic97
+    4300194: 21 Comic98
+    4300196: 21 Comic99
+    4300198: 21 Comi100
+    4300200: 21 Comi101
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: cb5345dba4dbda1449f6c9d8b1a0c1bf
+timeCreated: 1457893104
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arch36_013
+    100002: Arch37_021
+    100004: Arch37_022
+    100006: Arch37_026
+    100008: archmodel1
+    100010: archmodel2
+    100012: archmodel3
+    100014: archmodel4
+    100016: archmodel5
+    100018: archmodel6
+    100020: archmodels
+    100022: //RootNode
+    100024: bed_cover_
+    100026: Box4947
+    100028: Box4954
+    100030: Cylinder00
+    100032: Sphere001
+    100034: sub01
+    100036: sub02
+    100038: sub03
+    400000: Arch36_013
+    400002: Arch37_021
+    400004: Arch37_022
+    400006: Arch37_026
+    400008: archmodel1
+    400010: archmodel2
+    400012: archmodel3
+    400014: archmodel4
+    400016: archmodel5
+    400018: archmodel6
+    400020: archmodels
+    400022: //RootNode
+    400024: bed_cover_
+    400026: Box4947
+    400028: Box4954
+    400030: Cylinder00
+    400032: Sphere001
+    400034: sub01
+    400036: sub02
+    400038: sub03
+    2300000: Arch36_013
+    2300002: Arch37_021
+    2300004: Arch37_022
+    2300006: Arch37_026
+    2300008: archmodel1
+    2300010: archmodel2
+    2300012: archmodel3
+    2300014: archmodel4
+    2300016: archmodel5
+    2300018: archmodel6
+    2300020: archmodels
+    2300022: Box4947
+    2300024: Box4954
+    2300026: Cylinder00
+    2300028: Sphere001
+    2300030: sub01
+    2300032: sub02
+    2300034: sub03
+    3300000: Arch36_013
+    3300002: Arch37_021
+    3300004: Arch37_022
+    3300006: Arch37_026
+    3300008: archmodel1
+    3300010: archmodel2
+    3300012: archmodel3
+    3300014: archmodel4
+    3300016: archmodel5
+    3300018: archmodel6
+    3300020: archmodels
+    3300022: Box4947
+    3300024: Box4954
+    3300026: Cylinder00
+    3300028: Sphere001
+    3300030: sub01
+    3300032: sub02
+    3300034: sub03
+    4300000: Box4947
+    4300002: Arch37_026
+    4300004: Arch37_021
+    4300006: Arch36_013
+    4300008: Arch37_022
+    4300010: sub01
+    4300012: sub02
+    4300014: sub03
+    4300016: archmodels
+    4300018: archmodel1
+    4300020: archmodel2
+    4300022: archmodel3
+    4300024: archmodel4
+    4300026: archmodel5
+    4300028: archmodel6
+    4300030: Box4954
+    4300032: Cylinder00
+    4300034: Sphere001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

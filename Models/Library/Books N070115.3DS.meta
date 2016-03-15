@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 99601185622b08a4e9efb9b54d536d2b
+timeCreated: 1457888833
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 01 Desig10
+    100002: 01 Desig11
+    100004: 01 Desig12
+    100006: 01 Desig13
+    100008: 01 Desig14
+    100010: 01 Desig15
+    100012: 01 Desig16
+    100014: 01 Desig17
+    100016: 01 Desig18
+    100018: 01 Desig19
+    100020: 01 Desig20
+    100022: 01 Desig21
+    100024: 01 Desig22
+    100026: 01 Desig23
+    100028: 01 Desig24
+    100030: 01 Design0
+    100032: 01 Design1
+    100034: 01 Design2
+    100036: 01 Design3
+    100038: 01 Design4
+    100040: 01 Design5
+    100042: 01 Design6
+    100044: 01 Design7
+    100046: 01 Design8
+    100048: 01 Design9
+    100050: //RootNode
+    400000: 01 Desig10
+    400002: 01 Desig11
+    400004: 01 Desig12
+    400006: 01 Desig13
+    400008: 01 Desig14
+    400010: 01 Desig15
+    400012: 01 Desig16
+    400014: 01 Desig17
+    400016: 01 Desig18
+    400018: 01 Desig19
+    400020: 01 Desig20
+    400022: 01 Desig21
+    400024: 01 Desig22
+    400026: 01 Desig23
+    400028: 01 Desig24
+    400030: 01 Design0
+    400032: 01 Design1
+    400034: 01 Design2
+    400036: 01 Design3
+    400038: 01 Design4
+    400040: 01 Design5
+    400042: 01 Design6
+    400044: 01 Design7
+    400046: 01 Design8
+    400048: 01 Design9
+    400050: //RootNode
+    2300000: 01 Desig10
+    2300002: 01 Desig11
+    2300004: 01 Desig12
+    2300006: 01 Desig13
+    2300008: 01 Desig14
+    2300010: 01 Desig15
+    2300012: 01 Desig16
+    2300014: 01 Desig17
+    2300016: 01 Desig18
+    2300018: 01 Desig19
+    2300020: 01 Desig20
+    2300022: 01 Desig21
+    2300024: 01 Desig22
+    2300026: 01 Desig23
+    2300028: 01 Desig24
+    2300030: 01 Design0
+    2300032: 01 Design1
+    2300034: 01 Design2
+    2300036: 01 Design3
+    2300038: 01 Design4
+    2300040: 01 Design5
+    2300042: 01 Design6
+    2300044: 01 Design7
+    2300046: 01 Design8
+    2300048: 01 Design9
+    3300000: 01 Desig10
+    3300002: 01 Desig11
+    3300004: 01 Desig12
+    3300006: 01 Desig13
+    3300008: 01 Desig14
+    3300010: 01 Desig15
+    3300012: 01 Desig16
+    3300014: 01 Desig17
+    3300016: 01 Desig18
+    3300018: 01 Desig19
+    3300020: 01 Desig20
+    3300022: 01 Desig21
+    3300024: 01 Desig22
+    3300026: 01 Desig23
+    3300028: 01 Desig24
+    3300030: 01 Design0
+    3300032: 01 Design1
+    3300034: 01 Design2
+    3300036: 01 Design3
+    3300038: 01 Design4
+    3300040: 01 Design5
+    3300042: 01 Design6
+    3300044: 01 Design7
+    3300046: 01 Design8
+    3300048: 01 Design9
+    4300000: 01 Design0
+    4300002: 01 Design1
+    4300004: 01 Design2
+    4300006: 01 Design3
+    4300008: 01 Design4
+    4300010: 01 Design5
+    4300012: 01 Design6
+    4300014: 01 Design7
+    4300016: 01 Design8
+    4300018: 01 Design9
+    4300020: 01 Desig10
+    4300022: 01 Desig11
+    4300024: 01 Desig12
+    4300026: 01 Desig13
+    4300028: 01 Desig14
+    4300030: 01 Desig15
+    4300032: 01 Desig16
+    4300034: 01 Desig17
+    4300036: 01 Desig18
+    4300038: 01 Desig19
+    4300040: 01 Desig20
+    4300042: 01 Desig21
+    4300044: 01 Desig22
+    4300046: 01 Desig23
+    4300048: 01 Desig24
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
